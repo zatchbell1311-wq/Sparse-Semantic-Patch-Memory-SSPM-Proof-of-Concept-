@@ -78,7 +78,7 @@ The experiments demonstrate that SSPM significantly reduces conversational token
 
 The figure below summarizes the experimental results including token usage comparison, semantic patch extraction statistics, token reduction percentage, and ablation analysis.
 
-![SSPM Experimental Results](results/SSPM_Results.png)
+![SSPM Experimental Results](results/architecture.png)
 
 **Key findings:**
 
