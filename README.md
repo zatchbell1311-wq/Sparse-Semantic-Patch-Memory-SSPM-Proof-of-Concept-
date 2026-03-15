@@ -70,6 +70,23 @@ SSPM preserved **100% of constraints and decisions** across all evaluated dialog
 
 ---
 
+## Experimental Results
+
+The proof-of-concept implementation of **Sparse Semantic Patch Memory (SSPM)** was evaluated on multiple multi-turn technical dialogues under a fixed token budget.
+
+The experiments demonstrate that SSPM significantly reduces conversational token usage while preserving important semantic information such as constraints and decisions.
+
+The figure below summarizes the experimental results including token usage comparison, semantic patch extraction statistics, token reduction percentage, and ablation analysis.
+
+![SSPM Experimental Results](results/SSPM_Results.png)
+
+**Key findings:**
+
+* SSPM achieves **~48.7% average token reduction** compared to raw conversation history.
+* All explicit **constraints and decisions are preserved (100% retention)**.
+* Sparse semantic patch selection improves efficiency compared to truncation and compression baselines.
+* Ablation experiments confirm the importance of **dependency centrality and token cost penalty** in the utility scoring function.
+
 ## Citation
 
 If you use this work, please cite:
