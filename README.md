@@ -1,4 +1,4 @@
- Sparse Semantic Patch Memory (SSPM)
+# Sparse Semantic Patch Memory (SSPM)
 
 This repository contains the **proof-of-concept implementation and experimental notebook** for the research work:
 
@@ -8,7 +8,7 @@ SSPM proposes a **semantic patch–based memory architecture** for Large Languag
 
 ---
 
- Research Paper
+## Research Paper
 
 The full research preprint is available in this repository:
 
@@ -18,7 +18,7 @@ paper/SSPM_v1_preprint.pdf
 
 ---
 
- Run the Experiment (Google Colab)
+## Run the Experiment (Google Colab)
 
 You can run the full experiment directly in Google Colab:
 
@@ -36,7 +36,7 @@ The notebook performs:
 
 ---
 
- Repository Structure
+## Repository Structure
 
 ```
 Sparse-Semantic-Patch-Memory-SSPM-Proof-of-Concept
@@ -55,7 +55,7 @@ Sparse-Semantic-Patch-Memory-SSPM-Proof-of-Concept
 
 ---
 
- Key Results
+## Key Results
 
 Average results from experiments:
 
@@ -70,7 +70,7 @@ SSPM preserved **100% of constraints and decisions** across all evaluated dialog
 
 ---
 
- Citation
+## Citation
 
 If you use this work, please cite:
 
