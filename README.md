@@ -10,6 +10,7 @@ SSPM proposes a **semantic patch–based memory architecture** for Large Languag
 
 ## Research Paper
 
+**Check the DOI:** https://doi.org/10.5281/zenodo.19033643
 The full research preprint is available in this repository:
 
 ```
